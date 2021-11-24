@@ -1,0 +1,8 @@
+C:\Users\HOME\OneDrive - Institut Teknologi Sepuluh Nopember\Lecture\Other\Online Bus Booking System\code\BusBookingProject\BusBookingProject\bin\BusBookingProject.dll.config
+C:\Users\HOME\OneDrive - Institut Teknologi Sepuluh Nopember\Lecture\Other\Online Bus Booking System\code\BusBookingProject\BusBookingProject\bin\BusBookingProject.dll
+C:\Users\HOME\OneDrive - Institut Teknologi Sepuluh Nopember\Lecture\Other\Online Bus Booking System\code\BusBookingProject\BusBookingProject\bin\BusBookingProject.pdb
+C:\Users\HOME\OneDrive - Institut Teknologi Sepuluh Nopember\Lecture\Other\Online Bus Booking System\code\BusBookingProject\BusBookingProject\obj\Release\BusBookingProject.csproj.AssemblyReference.cache
+C:\Users\HOME\OneDrive - Institut Teknologi Sepuluh Nopember\Lecture\Other\Online Bus Booking System\code\BusBookingProject\BusBookingProject\obj\Release\BusBookingProject.csproj.CoreCompileInputs.cache
+C:\Users\HOME\OneDrive - Institut Teknologi Sepuluh Nopember\Lecture\Other\Online Bus Booking System\code\BusBookingProject\BusBookingProject\obj\Release\BusBookingProject.csproj.CopyComplete
+C:\Users\HOME\OneDrive - Institut Teknologi Sepuluh Nopember\Lecture\Other\Online Bus Booking System\code\BusBookingProject\BusBookingProject\obj\Release\BusBookingProject.dll
+C:\Users\HOME\OneDrive - Institut Teknologi Sepuluh Nopember\Lecture\Other\Online Bus Booking System\code\BusBookingProject\BusBookingProject\obj\Release\BusBookingProject.pdb
